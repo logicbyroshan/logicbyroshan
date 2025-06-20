@@ -34,7 +34,7 @@ The centerpiece is your ambitious project, DevSathi.
 ---
 
 <!-- 3. SPOTLIGHT PROJECT -->
-<h2 align="center">🚀 Spotlight Project: DevSathi 🚀</h2>
+<h2 align="center">🚀 Spotlight Project: DevSathi (Ideation) 🚀</h2>
 
 > **DevSathi is your AI-powered co-pilot for managing your entire developer life.** I'm currently building it to be the ultimate assistant for developers, students, and freelancers.
 
@@ -71,7 +71,7 @@ The centerpiece is your ambitious project, DevSathi.
   <tr>
     <td align="center" width="180">
       <h4>AI & DevOps</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,githubactions,aws" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git" /></a>
     </td>
     <td align="center" width="180">
       <h4>Core Languages</h4>
