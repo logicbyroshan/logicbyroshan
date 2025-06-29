@@ -48,9 +48,7 @@ The centerpiece is your ambitious project, DevSathi.
 - ✅ **Automated Social Presence:** Let DevSathi manage your portfolio, blog, and freelance sites by adding/removing content cards dynamically.
 - ✅ **Multi-Model Intelligence:** Leveraging the power of Llama, GPT, and Gemini to provide the best possible assistance.
 - ✅ **Learning & Growth Assistant:** Get personalized recommendations for skills to learn and projects to build.
-
-**➡️ Follow the project's progress here: [Link to Your DevSathi GitHub Repo]** ⬅️
-
+- 
 ---
 
 <!-- 4. TECH STACK -->
@@ -67,9 +65,7 @@ The centerpiece is your ambitious project, DevSathi.
       <h4>Backend & Databases</h4>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,flask,python,mysql,postgres" /></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="180">
+        <td align="center" width="180">
       <h4>AI & DevOps</h4>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git" /></a>
     </td>
@@ -85,9 +81,6 @@ The centerpiece is your ambitious project, DevSathi.
 <!-- 5. GITHUB STATS -->
 <h3 align="center">My GitHub Contribution</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=logicbyroshan&layout=compact&langs_count=8&theme=tokyonight&count_private=true" alt="Roshan's Top Languages" />
-</p>
-<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyroshan&theme=tokyonight" alt="Roshan's Contribution Streak" />
 </p>
 
@@ -100,7 +93,5 @@ The centerpiece is your ambitious project, DevSathi.
   <br><br>
   <a href="https://www.linkedin.com/in/logicbyroshan/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="logicbyroshan linkedin" height="40" width="40" /></a>   
   <a href="https://twitter.com/logicbyroshan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="logicbyroshan twitter" height="40" width="40" /></a>   
-  <a href="https://www.youtube.com/c/logicbyroshan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="logicbyroshan youtube" height="40" width="40" /></a>   
-  <a href="https://roshandamor.site" target="blank"><img align="center" src="https://skillicons.dev/icons?i=html" alt="portfolio website" height="40" width="40" /></a>   
   <a href="mailto:connect@roshandamor.site" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email me" height="40" width="40" /></a>
 </p>
