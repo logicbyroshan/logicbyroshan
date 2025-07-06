@@ -4,12 +4,6 @@ It's designed to showcase you as a visionary AI/Full-Stack Developer.
 The centerpiece is your ambitious project, DevSathi.
 -->
 
-<!-- 1. HEADER -->
-<p align="center">
-  <!-- A professional banner sets the tone. You can create one on Canva.com. -->
-  <img src="https://raw.githubusercontent.com/logicbyroshan/logicbyroshan/main/she.png" alt="Roshan Damor - AI & Full-Stack Developer Banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi, I'm Roshan Damor 👋</h1>
 <h3 align="center">AI-Powered Full-Stack Developer | Building the Future of Developer Tools</h3>
 
