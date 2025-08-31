@@ -65,8 +65,8 @@ It goes beyond simple connections, providing **structured mentorship, AI assista
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logicbyroshan&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyroshan&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=logicbyroshan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyroshan&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
