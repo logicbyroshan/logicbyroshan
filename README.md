@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Roshan Damor 👋</h1>
-<h3 align="center">AI-Powered Full-Stack Developer | Building the Future of Developer Tools</h3>
+<h3 align="center">💡 AI-Powered Full-Stack Developer | Building the Future of Developer Tools 🚀</h3>
 
 <p align="center">
   <a href="https://roshandamor.site" target="_blank">
@@ -10,78 +10,92 @@
 
 ---
 
-<!-- 2. INTRODUCTION -->
-<p align="left">
-  I'm on a mission to merge the worlds of **Artificial Intelligence** and **Full-Stack Development**. My passion lies in building intelligent, intuitive tools that empower developers and streamline their creative process. I believe the future of software is not just about writing code, but about creating systems that learn, adapt, and assist.
+## 👨‍💻 About Me  
+
+<p align="center">
+  I'm on a mission to merge the worlds of <b>Artificial Intelligence</b> and <b>Full-Stack Development</b>.  
+  My passion lies in building intelligent, intuitive tools that empower developers and streamline their creative process.  
+  The future of software is not just about writing code — it's about creating systems that <b>learn, adapt, and assist</b>.
 </p>
 
-- 🌱 My focus is on becoming a specialist in **AI-enabled software**, combining solid **frontend**, **backend**, and **DevOps** knowledge with cutting-edge AI model integration.
-- 💬 Ask me about **Python, Django, AI model integration (Llama, GPT, Gemini), or building developer-centric tools**.
-- 📫 Let's connect and build something amazing: **connect@roshandamor.site**
+- 🌱 Currently mastering **AI-enabled software** development (Frontend + Backend + DevOps + AI integration).  
+- 💬 Ask me about **Python, Django, AI model integration (Llama, GPT, Gemini), or developer tools**.  
+- 📫 Reach me at **connect@roshandamor.site**  
 
 ---
 
-<!-- 3. SPOTLIGHT PROJECT -->
-<h2 align="center">🚀 Spotlight Project: DevSathi (Development) 🚀</h2>
+## 🚀 Spotlight Project: DevSathi  
 
-> **DevSathi is your AI-powered co-pilot for managing your entire developer life.** I'm currently building it to be the ultimate assistant for developers, students, and freelancers.
+> **DevSathi is your AI-powered co-pilot for managing your entire developer life.**  
+> I'm currently building it to be the ultimate assistant for developers, students, and freelancers.  
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,githubactions,openai" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,githubactions,openai" height="50" />
 </p>
 
-**Key Features Being Developed:**
-- ✅ **Unified Single Dashboard:** Manage your projects, skills, and professional experiences all in one place.
-- ✅ **AI-Powered Content Creation:** Get help in writing blog posts, project descriptions, and documentation.
-- ✅ **Automated Social Presence:** Let DevSathi manage your portfolio, blog, and freelance sites dynamically.
-- ✅ **Multi-Model Intelligence:** Leveraging the power of GPT, and Gemini to provide the best possible assistance.
-- ✅ **Learning & Growth Assistant:** Get personalized recommendations for skills to learn and projects to build.
+**Key Features Being Developed**  
+- ✅ **Unified Dashboard** – Manage projects, skills, and experiences in one place.  
+- ✅ **AI Content Creation** – Generate blog posts, project descriptions, and docs.  
+- ✅ **Automated Social Presence** – Dynamic portfolio, blog & freelance updates.  
+- ✅ **Multi-Model Intelligence** – GPT + Gemini for smarter assistance.  
+- ✅ **Learning Assistant** – Personalized skill & project recommendations.  
+
 ---
 
-<!-- 4. TECH STACK -->
-<h3 align="center">My Technical Arsenal</h3>
-<br>
+## ⚡ My Technical Arsenal  
 
 <table align="center">
   <tr>
-    <td align="center" width="180">
+    <td align="center" width="220">
       <h4>Frontend</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" /></a>
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" height="45" />
     </td>
-    <td align="center" width="180">
+    <td align="center" width="220">
       <h4>Backend & Databases</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,flask,node,mysql,postgres" /></a>
+      <img src="https://skillicons.dev/icons?i=django,flask,node,mysql,postgres" height="45" />
     </td>
-      <td align="center" width="180">
+  </tr>
+  <tr>
+    <td align="center" width="220">
       <h4>AI & DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=docker,git" height="45" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
+      <img src="https://skillicons.dev/icons?i=docker,git" height="45" /><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="25"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="25"/>
     </td>
-    <td align="center" width="180">
+    <td align="center" width="220">
       <h4>Core Languages</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,cpp" /></a>
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp" height="45" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- 5. GITHUB STATS -->
-<h3 align="center">My GitHub Contribution</h3>
+## 📊 My GitHub Stats  
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyroshan&theme=tokyonight" alt="Roshan's Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=logicbyroshan&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyroshan&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicbyroshan&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-<!-- 6. CONNECT WITH ME -->
-<h3 align="center">Let's Connect and Collaborate!</h3>
+## 🌍 Connect with Me  
+
 <p align="center">
-  <i>You can find me across the web as <b>@logicbyroshan</b></i>
+  <i>You can find me everywhere as <b>@logicbyroshan</b></i>  
   <br><br>
-  <a href="https://www.linkedin.com/in/logicbyroshan/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="logicbyroshan linkedin" height="40" width="40" /></a>   
-  <a href="https://twitter.com/logicbyroshan" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="logicbyroshan twitter" height="40" width="40" /></a>   
-  <a href="mailto:connect@roshandamor.site" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email me" height="40" width="40" /></a>
+
+  <a href="https://www.linkedin.com/in/logicbyroshan/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/logicbyroshan" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.reddit.com/user/logicbyroshan" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28"/></a>
+  <a href="https://www.instagram.com/logicbyroshan" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>
+  <a href="https://www.threads.net/@logicbyroshan" target="blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" height="28"/></a>
+  <a href="https://www.youtube.com/@logicbyroshan" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28"/></a>
+  <a href="mailto:connect@roshandamor.site"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
