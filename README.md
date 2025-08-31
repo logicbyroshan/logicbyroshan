@@ -1,9 +1,3 @@
-<!--
-Hi Roshan! This is your upgraded, information-rich profile README.
-It's designed to showcase you as a visionary AI/Full-Stack Developer.
-The centerpiece is your ambitious project, DevSathi.
--->
-
 <h1 align="center">Hi, I'm Roshan Damor 👋</h1>
 <h3 align="center">AI-Powered Full-Stack Developer | Building the Future of Developer Tools</h3>
 
@@ -28,21 +22,20 @@ The centerpiece is your ambitious project, DevSathi.
 ---
 
 <!-- 3. SPOTLIGHT PROJECT -->
-<h2 align="center">🚀 Spotlight Project: DevSathi (Ideation) 🚀</h2>
+<h2 align="center">🚀 Spotlight Project: DevSathi (Development) 🚀</h2>
 
 > **DevSathi is your AI-powered co-pilot for managing your entire developer life.** I'm currently building it to be the ultimate assistant for developers, students, and freelancers.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,python,postgres,docker,aws,pytorch" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,githubactions,openai" />
 </p>
 
 **Key Features Being Developed:**
-- ✅ **Unified Dashboard:** Manage your projects, skills, and professional experiences all in one place.
-- ✅ **AI-Powered Content Creation:** Get help brainstorming and writing blog posts, project descriptions, and documentation.
-- ✅ **Automated Social Presence:** Let DevSathi manage your portfolio, blog, and freelance sites by adding/removing content cards dynamically.
-- ✅ **Multi-Model Intelligence:** Leveraging the power of Llama, GPT, and Gemini to provide the best possible assistance.
+- ✅ **Unified Single Dashboard:** Manage your projects, skills, and professional experiences all in one place.
+- ✅ **AI-Powered Content Creation:** Get help in writing blog posts, project descriptions, and documentation.
+- ✅ **Automated Social Presence:** Let DevSathi manage your portfolio, blog, and freelance sites dynamically.
+- ✅ **Multi-Model Intelligence:** Leveraging the power of GPT, and Gemini to provide the best possible assistance.
 - ✅ **Learning & Growth Assistant:** Get personalized recommendations for skills to learn and projects to build.
-- 
 ---
 
 <!-- 4. TECH STACK -->
@@ -57,15 +50,18 @@ The centerpiece is your ambitious project, DevSathi.
     </td>
     <td align="center" width="180">
       <h4>Backend & Databases</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,flask,python,mysql,postgres" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,flask,node,mysql,postgres" /></a>
     </td>
-        <td align="center" width="180">
+      <td align="center" width="180">
       <h4>AI & DevOps</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git" /></a>
+      <img src="https://skillicons.dev/icons?i=docker,git" height="45" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28"/>
     </td>
     <td align="center" width="180">
       <h4>Core Languages</h4>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,cpp" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,c,cpp" /></a>
     </td>
   </tr>
 </table>
