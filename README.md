@@ -3,7 +3,7 @@
 <h3 align="center">💡 AI-Powered Full-Stack Developer | Builder of Smart Developer Tools 🚀</h3>
 
 <p align="center">
-  <a href="https://roshandamor.site" target="_blank">
+  <a href="https://roshandamor.me" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-roshandamor.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=logicbyroshan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
@@ -23,7 +23,7 @@
 - 🚀 Working on **DevSathi** → an AI-powered co-pilot for developers & freelancers.  
 - 🌱 Exploring **multi-model AI integration** (GPT, Gemini, LLaMA) + scalable full-stack systems.  
 - 💬 Ask me about **Python, Django, REST APIs, or AI-enhanced tools**.  
-- 📫 Connect: **connect@roshandamor.site**  
+- 📫 Connect: **connect@roshandamor.me**  
 
 ---
 
