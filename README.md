@@ -1,10 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Hey, I'm Roshan Damor 👋</h1>
 <h3 align="center">💡 AI-Powered Full-Stack Developer | Builder of Smart Developer Tools 🚀</h3>
-
 <p align="center">
   <a href="https://roshandamor.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-roshandamor.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-roshandamor.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=logicbyroshan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
@@ -28,46 +27,61 @@
 ---
 
 <!-- SPOTLIGHT PROJECT -->
-## 🚀 Spotlight Project: DevSathi  
+## 🚀 Spotlight Project: DevMitra  
 
-### 📌 [MentorConnect – AI-powered Mentorship Platform](https://github.com/your-repo-link)
+### 📌 [DevMitra – Intelligent Portfolio Platform](https://github.com/logicbyroshan/portfolio-v2.0)
 
-A platform designed to **bridge the gap between mentors and mentees** through smart technology.  
-It goes beyond simple connections, providing **structured mentorship, AI assistance, and integrated tools** for smooth collaboration.  
+An **interactive and intelligent portfolio website** that goes beyond static resumes.  
+It combines **projects, blogs, achievements, skills, and AI-powered features** to reflect both my journey and creativity.  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,githubactions,openai" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,github," height="50" />
 </p>
 
 #### 🔑 Key Features  
-- 🔍 **AI-driven Mentor Matching** – Finds the best mentors based on skills, career goals, and learning style.  
-- 📅 **Smart Calendar Integration** – Automated scheduling with Google/Outlook sync.  
-- 🎥 **Built-in Video Calls** – Secure video meetings, no third-party apps needed.  
-- 💬 **In-Call Chat + File Sharing** – Seamless communication during mentorship sessions.  
-- 📊 **Progress Tracking** – Both mentors and mentees can track growth with goals and milestones.  
-- 🤖 **AI Career Guidance** – Offers suggestions, career pathways, and skill-building roadmaps.  
+- 🏠 **Dynamic Portfolio Pages** – Projects, Blogs, Experiences, Skills, and Achievements with detail views.  
+- 💬 **Comment & Like System** – Interactive engagement on blogs and project detail pages.  
+- 🔑 **User Authentication** – Login, signup, and password reset with email integration.  
+- 📩 **Blog Subscription System** – Sends email updates when new blogs are published.  
+- 🎶 **Spotify Playlist Integration** – Embedded playlists users can browse and play.  
+- 🤖 **AI Chatbot (Gemini API)** – Answers user questions with portfolio context.  
+- 📄 **Resume Previews** – Popup preview of resume and video resume integration.  
+- ⚡ **Contact & Notifications** – Working contact form with notifications sent to admin & acknowledgment emails to users.  
+- 🔄 **Collaboration Zone** – Users can propose projects via the "Code Together" section.  
+- 🔮 **Upcoming** – Admin Dashboard, ToDo App integration, Project/Blog Manager, Dedicated Blog Platform, REST APIs, Real-Time Features.  
 
 ---
 
-<!-- TECH STACK -->
-## ⚡ My Technical Arsenal  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="45"/>  
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,mysql,postgres" height="45"/>  
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" height="45"/>  
-  <img src="https://skillicons.dev/icons?i=java,c,cpp" height="45"/>  
-</p>
-
----
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logicbyroshan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyroshan&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<table width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=logicbyroshan&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicbyroshan&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=logicbyroshan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=logicbyroshan&theme=tokyonight&no-frame=true&row=1" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicbyroshan&theme=tokyo-night&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -81,7 +95,7 @@ It goes beyond simple connections, providing **structured mentorship, AI assista
   <a href="https://twitter.com/logicbyroshan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.reddit.com/user/logicbyroshan"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="https://www.instagram.com/logicbyroshan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.threads.net/@logicbyroshan"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
   <a href="https://www.youtube.com/@logicbyroshan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:connect@roshandamor.site"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.threads.net/@logicbyroshan"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
 </p>
