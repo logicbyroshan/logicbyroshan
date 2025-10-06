@@ -70,11 +70,6 @@ It combines **projects, blogs, achievements, skills, and AI-powered features** t
       <img src="https://github-profile-trophy.vercel.app/?username=logicbyroshan&theme=tokyonight&no-frame=true&row=1" width="100%"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicbyroshan&theme=tokyo-night&hide_border=true" width="100%"/>
-    </td>
-  </tr>
 </table>
 
 
