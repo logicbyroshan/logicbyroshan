@@ -58,11 +58,6 @@ It combines **projects, blogs, achievements, skills, and AI-powered features** t
 
 <table width="100%">
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=logicbyroshan&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicbyroshan&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
     </td>
