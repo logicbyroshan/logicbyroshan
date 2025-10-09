@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="image.png" alt="Banner" width="100%">
+  <img src="Savio Header.png" alt="Banner" width="100%">
 </p>
 <p align="center">
   <a href="https://roshandamor.me" target="_blank">
