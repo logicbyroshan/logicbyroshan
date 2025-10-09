@@ -1,6 +1,7 @@
 <!-- HEADER -->
-<h1 align="center">Hey, I'm Roshan Damor 👋</h1>
-<h3 align="center">💡 AI-Powered Full-Stack Developer | Builder of Smart Developer Tools 🚀</h3>
+<p align="center">
+  <img src="image.png" alt="Banner" width="100%">
+</p>
 <p align="center">
   <a href="https://roshandamor.me" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-roshandamor.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
