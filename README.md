@@ -88,4 +88,5 @@ It combines **projects, blogs, achievements, skills, and AI-powered features** t
   <a href="https://www.youtube.com/@logicbyroshan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:connect@roshandamor.site"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.threads.net/@logicbyroshan"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
+  <a href="https://medium.com/@logicbyroshan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
