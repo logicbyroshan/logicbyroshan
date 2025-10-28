@@ -27,31 +27,6 @@
 
 ---
 
-<!-- SPOTLIGHT PROJECT -->
-## 🚀 Spotlight Project: DevMitra  
-
-### 📌 [DevMitra – Intelligent Portfolio Platform](https://github.com/logicbyroshan/portfolio-v2.0)
-
-An **interactive and intelligent portfolio website** that goes beyond static resumes.  
-It combines **projects, blogs, achievements, skills, and AI-powered features** to reflect both my journey and creativity.  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,github," height="50" />
-</p>
-
-#### 🔑 Key Features  
-- 🏠 **Dynamic Portfolio Pages** – Projects, Blogs, Experiences, Skills, and Achievements with detail views.  
-- 💬 **Comment & Like System** – Interactive engagement on blogs and project detail pages.  
-- 🔑 **User Authentication** – Login, signup, and password reset with email integration.  
-- 📩 **Blog Subscription System** – Sends email updates when new blogs are published.  
-- 🎶 **Spotify Playlist Integration** – Embedded playlists users can browse and play.  
-- 🤖 **AI Chatbot (Gemini API)** – Answers user questions with portfolio context.  
-- 📄 **Resume Previews** – Popup preview of resume and video resume integration.  
-- ⚡ **Contact & Notifications** – Working contact form with notifications sent to admin & acknowledgment emails to users.  
-- 🔄 **Collaboration Zone** – Users can propose projects via the "Code Together" section.  
-- 🔮 **Upcoming** – Admin Dashboard, ToDo App integration, Project/Blog Manager, Dedicated Blog Platform, REST APIs, Real-Time Features.  
-
----
 
 
 <!-- GITHUB STATS -->
