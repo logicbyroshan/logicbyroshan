@@ -34,20 +34,30 @@
 </p>
 
 <!-- GITHUB STATS -->
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicbyroshan&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="100%"/>
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=logicbyroshan&layout=compact&theme=radical&hide_border=true" 
+        width="100%"
+      />
     </td>
     <td width="50%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=logicbyroshan&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000" width="100%"/>
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=logicbyroshan&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
+        width="100%"
+      />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=logicbyroshan&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%"/>
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=logicbyroshan&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" 
+        width="100%" 
+      />
     </td>
   </tr>
 </table>
