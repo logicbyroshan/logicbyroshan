@@ -44,9 +44,9 @@
 
 # 🛠️ Tech Stack
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="10">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💻 Languages
 
@@ -56,7 +56,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 AI & Data
 
@@ -68,7 +68,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### ⚙️ Backend
 
@@ -78,7 +78,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🎨 Frontend
 
@@ -90,7 +90,7 @@
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🗄️ Databases
 
@@ -100,7 +100,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### ☁️ Cloud & DevOps
 
