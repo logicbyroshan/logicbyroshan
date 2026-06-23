@@ -1,94 +1,282 @@
-<!-- HEADER -->
+<!-- ====================================================== -->
+
+<!-- BANNER -->
+
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="Savio Header.png" alt="Banner" width="100%" style="border-radius: 15px;">
+  <img src="./Savio Header.png" width="100%" alt="Roshan Damor Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://roshandamor.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-roshandamor.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://roshandamor.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="mailto:contact@roshandamor.me" target="_blank">
-    <img src="https://img.shields.io/badge/📩 Mail-contact@roshandamor.me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="mailto:contact@roshandamor.me">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=logicbyroshan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+
+  <img src="https://komarev.com/ghpvc/?username=logicbyroshan&style=for-the-badge&color=blueviolet"/>
 </p>
 
-<!-- INTRO -->
-## 🌟 About Me  
+---
 
-<p align="justify">
-  I am a passionate <b>AI and Full-Stack Developer</b> building intelligent, scalable, and developer-centric tools.  
-  I focus on making technology <b>smarter, adaptive, and collaborative</b>.  
-  Currently exploring <b>AI, automation, and full-stack development</b> to empower developers worldwide.
-</p>
+# 🚀 About Me
 
-<ul>
-  <li>🚀 <b>Building:</b> DevSathi — an AI-powered co-pilot for developers & freelancers</li>
-  <li>🧠 <b>Exploring:</b> Multi-model AI integration (GPT • Gemini • LLaMA) + scalable backend architectures</li>
-  <li>💬 <b>Ask me about:</b> Python • Django • REST APIs • Intelligent automation</li>
-  <li>🎯 <b>Vision:</b> Creating tools that let developers focus on logic, not repetition</li>
-</ul>
+* 💡 Passionate about Artificial Intelligence, Automation, and Full Stack Development
+* 🚀 Building products that solve real-world problems
+* 🤖 Exploring Multi-Agent AI Systems and Intelligent Workflows
+* ⚙️ Focused on scalable backend architectures and developer tools
+* 🌍 Open-source enthusiast and lifelong learner
 
-<p align="center">
-  <i>"Code should not just solve problems — it should inspire solutions."</i>
-</p>
+---
 
-<!-- GITHUB STATS -->
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+# 🎯 Current Focus
+
+* 🤖 Building **DevSarthi**
+* 🎓 Scaling **Adarsh ID Cards**
+* 💼 Developing **JobSarthi**
+* ⚡ Exploring AI Agents & Automation
+* 🌍 Creating impactful software products
+
+---
+
+# 🛠️ Tech Stack
 
 <table width="100%">
-  <tr>
-    <td width="50%">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=logicbyroshan&layout=compact&theme=radical&hide_border=true" 
-        width="100%"
-      />
-    </td>
-    <td width="50%">
-      <img 
-        src="https://github-contributor-stats.vercel.app/api?username=logicbyroshan&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
-        width="100%"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=logicbyroshan&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" 
-        width="100%" 
-      />
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- CONNECT -->
-## 🌍 Connect with Me  
+### 💻 Languages
 
 <p align="center">
-  <i>You can find me everywhere as <b>@logicbyroshan</b></i><br><br>
-  <a href="https://www.linkedin.com/in/logicbyroshan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/logicbyroshan">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.reddit.com/user/logicbyroshan">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/logicbyroshan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@logicbyroshan">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:connect@roshandamor.site">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.threads.net/@logicbyroshan">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@logicbyroshan">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,js" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas,sklearn,matplotlib,seaborn" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,nextjs" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vue,vite,html,css,tailwind" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite,oracle" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,redis,nginx,aws,gcp,githubactions,kubernetes" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Adarsh ID Cards
+
+Enterprise-grade ID card generation platform.
+
+**Features**
+
+* CorelDRAW Automation
+* Dynamic Templates
+* Batch Card Generation
+* PDF Export Engine
+* School ERP Integration
+
+**Stack**
+
+Django • React • PostgreSQL • CorelDRAW
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 NoteVista
+
+Marketplace for educational resources and learning materials.
+
+**Features**
+
+* Notes Marketplace
+* Smart Discovery
+* Digital Resources
+* Student Collaboration
+* Resource Management
+
+**Stack**
+
+Django • React • PostgreSQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 JobSarthi
+
+Your AI Career Companion.
+
+**Features**
+
+* Resume Optimization
+* ATS Score Analysis
+* AI Career Guidance
+* Interview Preparation
+* Job Tracking
+* Smart Recommendations
+
+**Stack**
+
+Django • React • AI • PostgreSQL
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 DevSarthi
+
+AI-powered co-pilot for developers and freelancers.
+
+**Features**
+
+* Multi-Model AI
+* Smart Workflows
+* Project Management
+* AI Assistant
+* Productivity Automation
+
+**Stack**
+
+Django • React • AI • Redis
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=logicbyroshan&theme=react-dark&hide_border=true"
+  />
+</p>
+
+---
+
+# 🤝 Contribution Philosophy
+
+I believe in:
+
+* Writing maintainable code
+* Building developer-first products
+* Creating practical AI solutions
+* Sharing knowledge openly
+* Continuous learning
+* Contributing back to the community
+
+Every contribution, no matter how small, helps move technology forward.
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/logicbyroshan">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/logicbyroshan">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/logicbyroshan">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://www.instagram.com/logicbyroshan">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://www.youtube.com/@logicbyroshan">
+<img src="https://skillicons.dev/icons?i=youtube" />
+</a>
+
+<a href="mailto:contact@roshandamor.me">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💡 Favorite Quote
+
+<p align="center">
+<i>"Code should not just solve problems — it should inspire solutions."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
 </p>
