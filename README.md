@@ -32,15 +32,6 @@
 
 ---
 
-# 🎯 Current Focus
-
-* 🤖 Building **DevSarthi**
-* 🎓 Scaling **Adarsh ID Cards**
-* 💼 Developing **JobSarthi**
-* ⚡ Exploring AI Agents & Automation
-* 🌍 Creating impactful software products
-
----
 
 # 🛠️ Tech Stack
 
@@ -240,7 +231,7 @@ Comprehensive school management platform that unifies academics, administration,
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Open Source Activity
 
 <p align="center">
   <img
@@ -249,63 +240,91 @@ Comprehensive school management platform that unifies academics, administration,
   />
 </p>
 
----
-
-# 🤝 Contribution Philosophy
-
-I believe in:
-
-* Writing maintainable code
-* Building developer-first products
-* Creating practical AI solutions
-* Sharing knowledge openly
-* Continuous learning
-* Contributing back to the community
-
-Every contribution, no matter how small, helps move technology forward.
+<p align="center">
+Building production software, exploring AI systems, and continuously contributing to open source through real-world engineering projects.
+</p>
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
 
+<a href="https://logicbyroshan.in">
+<img src="https://img.shields.io/badge/Portfolio-roshandamor.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
 <a href="https://github.com/logicbyroshan">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-logicbyroshan-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/logicbyroshan">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-logicbyroshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/logicbyroshan">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://img.shields.io/badge/X-@logicbyroshan-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/logicbyroshan">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/Instagram-@logicbyroshan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@logicbyroshan">
-<img src="https://skillicons.dev/icons?i=youtube" />
+<img src="https://img.shields.io/badge/YouTube-Logic%20By%20Roshan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="mailto:contact@roshandamor.me">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-# 💡 Favorite Quote
+# 🚀 Engineering Principles
 
-<p align="center">
-<i>"Code should not just solve problems — it should inspire solutions."</i>
-</p>
+<div align="center">
+
+| Principle | What it means |
+|------------|---------------|
+| 🏗 Build for Scale | Design systems that remain reliable as they grow. |
+| 🤖 AI First | Apply AI where it genuinely improves user experience. |
+| ⚡ Performance Matters | Optimize before complexity becomes a bottleneck. |
+| 🧩 Clean Architecture | Write maintainable, modular, and testable software. |
+| 📖 Keep Learning | Continuously improve through real-world engineering. |
+| 🤝 Give Back | Share knowledge and contribute to the developer community. |
+
+</div>
+
+---
+
+# 📬 Open to Collaborate
+
+<div align="center">
+
+💼 **AI Software Engineering**
+
+🌐 **Full Stack Development**
+
+🏗 **System Design**
+
+🤖 **AI Applications**
+
+🚀 **Open Source**
+
+📚 **Developer Tools**
+
+</div>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect with me.
+
+### ⭐ Thanks for visiting my GitHub!
+
+I'm always interested in collaborating on impactful software, AI-powered products, and open-source projects.
+
+If something here resonates with you, feel free to connect or start a conversation.
+
 </p>
