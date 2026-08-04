@@ -28,7 +28,7 @@
 ---
 
 
-# 🛠️ Tech I Worked Wiht !
+# 🛠️ Tech I Worked With !
 
 <table width="100%" cellspacing="0" cellpadding="10">
 <tr>
