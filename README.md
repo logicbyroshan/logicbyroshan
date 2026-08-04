@@ -28,7 +28,7 @@
 ---
 
 
-# 🛠️ Tech Stack
+# 🛠️ Tech I Worked Wiht !
 
 <table width="100%" cellspacing="0" cellpadding="10">
 <tr>
@@ -100,7 +100,7 @@
 
 ---
 
-# 🚀 Selected Engineering Projects
+# 🚀 Selected Engineering Projects !
 
 <table width="100%">
 
