@@ -114,7 +114,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Engineering Projects
 
 <table width="100%">
 
@@ -122,41 +122,57 @@
 
 <td width="50%" valign="top">
 
-### 🎓 Adarsh ID Cards
+## 🚀 CardFlow
 
-Enterprise-grade ID card generation platform.
+**Enterprise ID Card Management & Generation Platform**
 
-**Features**
+🟢 **Production** • 👥 **1000+ Users** • 📈 **45 Daily Active Users** • ⚡ **200 Peak Concurrent Users**
 
-* CorelDRAW Automation
-* Dynamic Templates
-* Batch Card Generation
-* PDF Export Engine
-* School ERP Integration
+Scalable platform for managing student and employee ID cards with automated generation, workflow management, media processing, and cross-platform applications used in production.
 
-**Stack**
+**Engineering Highlights**
 
-Django • React • PostgreSQL • CorelDRAW
+- CorelDRAW Automation Engine
+- Batch Card Generation
+- Background Job Processing
+- Media Processing Pipeline
+- Role-Based Access Control
+- Import / Export Engine
+- Audit Logging
+- REST API Architecture
+- Desktop & Mobile Applications
+- AI-assisted Image Processing
+
+**Tech Stack**
+
+`Django REST Framework` • `React` • `PostgreSQL` • `Redis` • `Celery` • `Docker` • `Nginx` • `Electron` • `React Native`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📚 NoteVista
+## 📚 NoteVista
 
-Marketplace for educational resources and learning materials.
+**Educational Resource Marketplace**
 
-**Features**
+🟡 **Production MVP** • 🌐 **600+ Monthly Visitors**
 
-* Notes Marketplace
-* Smart Discovery
-* Digital Resources
-* Student Collaboration
-* Resource Management
+Modern platform for discovering, organizing, and sharing educational resources with secure content management, responsive user experience, and scalable backend services.
 
-**Stack**
+**Engineering Highlights**
 
-Django • React • PostgreSQL
+- Digital Resource Management
+- Smart Search & Discovery
+- Authentication & Authorization
+- REST API Architecture
+- Responsive Web Platform
+- File Upload Pipeline
+- User Dashboard
+- Category & Resource Management
+
+**Tech Stack**
+
+`Django REST Framework` • `React` • `PostgreSQL`
 
 </td>
 
@@ -166,42 +182,55 @@ Django • React • PostgreSQL
 
 <td width="50%" valign="top">
 
-### 💼 JobSarthi
+## 💼 JobSarthi
 
-Your AI Career Companion.
+**AI Career Operating System**
 
-**Features**
+🔓 **Open Source (Planned)** • 🤖 **AI Powered**
 
-* Resume Optimization
-* ATS Score Analysis
-* AI Career Guidance
-* Interview Preparation
-* Job Tracking
-* Smart Recommendations
+Personal AI platform for resume optimization, interview preparation, career planning, and productivity, designed around modern AI workflows and developer tools.
 
-**Stack**
+**Engineering Highlights**
 
-Django • React • AI • PostgreSQL
+- Multi-LLM Integration
+- ATS Resume Analysis
+- AI Resume Optimization
+- Career Planning Engine
+- Interview Preparation
+- AI Workflow Automation
+- REST API Architecture
+- Cross-platform Mobile Support
+
+**Tech Stack**
+
+`Django REST Framework` • `React` • `PostgreSQL` • `React Native` • `AI APIs`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 DevSarthi
+## 🎓 VidyaMaxx
 
-AI-powered co-pilot for developers and freelancers.
+**AI-First School Management Platform**
 
-**Features**
+🟡 **Production MVP** • 🏫 **Used by 4 Schools** • 🤖 **AI First**
 
-* Multi-Model AI
-* Smart Workflows
-* Project Management
-* AI Assistant
-* Productivity Automation
+Comprehensive school management platform that unifies academics, administration, communication, and operations across web, desktop, and mobile applications.
 
-**Stack**
+**Engineering Highlights**
 
-Django • React • AI • Redis
+- AI-first Architecture
+- Student Information System
+- Academic Management
+- Administration Dashboard
+- Desktop & Mobile Applications
+- Role-Based Access Control
+- REST API Architecture
+- Cross-platform Ecosystem
+
+**Tech Stack**
+
+`Django REST Framework` • `React` • `PostgreSQL` • `Redis` • `Electron` • `React Native`
 
 </td>
 
