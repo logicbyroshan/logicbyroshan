@@ -241,7 +241,7 @@ Comprehensive school management platform that unifies academics, administration,
 </p>
 
 <p align="center">
-Building production software, exploring AI systems, and continuously contributing to open source through real-world engineering projects.
+Building production software, AI-powered applications, and developer tools while continuously learning through real-world engineering.
 </p>
 
 ---
@@ -251,7 +251,7 @@ Building production software, exploring AI systems, and continuously contributin
 <p align="center">
 
 <a href="https://logicbyroshan.in">
-<img src="https://img.shields.io/badge/Portfolio-roshandamor.me-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-logicbyroshan.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://github.com/logicbyroshan">
@@ -274,7 +274,7 @@ Building production software, exploring AI systems, and continuously contributin
 <img src="https://img.shields.io/badge/YouTube-Logic%20By%20Roshan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="mailto:contact@roshandamor.me">
+<a href="mailto:contact@logicbyroshan.in">
 <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -284,47 +284,39 @@ Building production software, exploring AI systems, and continuously contributin
 
 # 🚀 Engineering Principles
 
-<div align="center">
-
-| Principle | What it means |
-|------------|---------------|
-| 🏗 Build for Scale | Design systems that remain reliable as they grow. |
-| 🤖 AI First | Apply AI where it genuinely improves user experience. |
-| ⚡ Performance Matters | Optimize before complexity becomes a bottleneck. |
-| 🧩 Clean Architecture | Write maintainable, modular, and testable software. |
-| 📖 Keep Learning | Continuously improve through real-world engineering. |
-| 🤝 Give Back | Share knowledge and contribute to the developer community. |
-
-</div>
+| Principle | Philosophy |
+|-----------|------------|
+| 🏗 **Build for Scale** | Design systems that remain reliable, maintainable, and efficient as they grow. |
+| 🤖 **AI First** | Apply AI where it creates meaningful value rather than adding unnecessary complexity. |
+| ⚡ **Performance Matters** | Prioritize responsiveness, scalability, and efficient resource utilization. |
+| 🧩 **Clean Architecture** | Build modular, testable, and maintainable software following sound engineering principles. |
+| 🔒 **Security by Design** | Build secure applications with authentication, authorization, and data protection in mind. |
+| 📖 **Continuous Learning** | Continuously improve through real-world engineering, experimentation, and feedback. |
+| 🤝 **Give Back** | Share knowledge, contribute to open source, and support the developer community. |
 
 ---
 
-# 📬 Open to Collaborate
+# 🤝 Open to Collaborate
 
-<div align="center">
-
-💼 **AI Software Engineering**
-
-🌐 **Full Stack Development**
-
-🏗 **System Design**
-
-🤖 **AI Applications**
-
-🚀 **Open Source**
-
-📚 **Developer Tools**
-
-</div>
+| Domain | Interested In |
+|--------|---------------|
+| 🤖 **AI Software Engineering** | LLM Applications • AI Agents • RAG Systems • AI Automation |
+| 🌐 **Full Stack Development** | Django • React • REST APIs • PostgreSQL • Redis |
+| 🏗 **System Design** | Scalable Architectures • Backend Systems • Performance Optimization |
+| 📱 **Cross-Platform Applications** | Web • Desktop (Electron) • Mobile (React Native) |
+| 🚀 **Open Source** | Developer Tools • Productivity Software • AI Projects |
+| 💼 **Startup & SaaS Products** | MVP Development • Enterprise Software • AI-first Platforms |
 
 ---
 
-<p align="center">
+<div align="center">
+
+## 🚀 Building production software, AI-powered applications, and developer tools.
+
+I'm always interested in collaborating on impactful software, modern AI systems, open-source projects, and ambitious startup ideas.
+
+If something here resonates with you, feel free to connect—I'd love to build something meaningful together.
 
 ### ⭐ Thanks for visiting my GitHub!
 
-I'm always interested in collaborating on impactful software, AI-powered products, and open-source projects.
-
-If something here resonates with you, feel free to connect or start a conversation.
-
-</p>
+</div>
