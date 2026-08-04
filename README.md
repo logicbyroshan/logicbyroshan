@@ -1,19 +1,14 @@
-<!-- ====================================================== -->
-
 <!-- BANNER -->
-
-<!-- ====================================================== -->
-
 <p align="center">
   <img src="./Savio Header.png" width="100%" alt="Roshan Damor Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://roshandamor.me">
+  <a href="https://logicbyroshan.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
-  <a href="mailto:contact@roshandamor.me">
+  <a href="mailto:contact@logicbyroshan.in">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
