@@ -37,7 +37,7 @@
 ### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,rust,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
 </td>
@@ -47,7 +47,7 @@
 ### 🤖 AI & Data
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas,sklearn,matplotlib,seaborn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib,seaborn" />
 </p>
 
 </td>
@@ -59,7 +59,7 @@
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,nextjs" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express" />
 </p>
 
 </td>
@@ -69,7 +69,7 @@
 ### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,vue,vite,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
 </p>
 
 </td>
@@ -81,7 +81,7 @@
 ### 🗄️ Databases
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite,oracle" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite" />
 </p>
 
 </td>
@@ -91,7 +91,7 @@
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,redis,nginx,aws,gcp,githubactions,kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,githubactions,kubernetes" />
 </p>
 
 </td>
