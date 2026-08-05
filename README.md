@@ -47,7 +47,7 @@
 ### 🤖 AI & Data
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib,seaborn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib" />
 </p>
 
 </td>
@@ -91,7 +91,7 @@
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,githubactions,kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,kubernetes" />
 </p>
 
 </td>
