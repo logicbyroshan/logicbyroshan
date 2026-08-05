@@ -100,7 +100,7 @@
 
 ---
 
-# 🚀 Selected Engineering Projects !
+# 🚀 Selected Engineering Projects
 
 <table width="100%">
 
@@ -112,53 +112,74 @@
 
 **Enterprise ID Card Management & Generation Platform**
 
-🟢 **Production** • 👥 **1000+ Users** • 📈 **45 Daily Active Users** • ⚡ **200 Peak Concurrent Users**
+🟢 **Production** • 👥 **1000+ Users** • 📱 **435+ Play Store Installs** • 📈 **300+ Active Mobile Users** • ⭐ **5.0 Rating**
 
-Scalable platform for managing student and employee ID cards with automated generation, workflow management, media processing, and cross-platform applications used in production.
+Production-ready platform used by schools and organizations to manage and generate ID cards with automated workflows, AI-assisted media processing, and cross-platform applications.
 
-**Engineering Highlights**
+### Engineering Highlights
 
-- CorelDRAW Automation Engine
-- Batch Card Generation
-- Background Job Processing
-- Media Processing Pipeline
-- Role-Based Access Control
+- CorelDRAW COM Automation
+- Background Job Processing (Celery + Redis)
+- AI-assisted Image Processing
 - Import / Export Engine
+- Role-Based Access Control (RBAC)
 - Audit Logging
 - REST API Architecture
-- Desktop & Mobile Applications
-- AI-assisted Image Processing
+- Cross-platform (Web, Desktop & Mobile)
+- Secure Authentication & Authorization
 
-**Tech Stack**
+### Tech Stack
 
 `Django REST Framework` • `React` • `PostgreSQL` • `Redis` • `Celery` • `Docker` • `Nginx` • `Electron` • `React Native`
+
+**Platforms**
+
+🌐 Web • 🖥 Desktop • 📱 Android • 🍎 iOS
+
+**Links**
+
+🌐 **Live:** https://cardflow.in*
+
+📱 **Google Play:** https://play.google.com/store/apps/details?id=com.adarshid.app
+
+💻 **GitHub:** Private Repository
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 NoteVista
+## 🎓 VidyaMaxx
 
-**Educational Resource Marketplace**
+**AI-First School Management Platform**
 
-🟡 **Production MVP** • 🌐 **600+ Monthly Visitors**
+🟡 **Production MVP** • 🏫 **Used by 4 Schools** • 🤖 **AI First**
 
-Modern platform for discovering, organizing, and sharing educational resources with secure content management, responsive user experience, and scalable backend services.
+Modern school management platform bringing academics, administration, communication, and operations into a unified ecosystem across web, desktop, and mobile.
 
-**Engineering Highlights**
+### Engineering Highlights
 
-- Digital Resource Management
-- Smart Search & Discovery
-- Authentication & Authorization
+- AI-first Architecture
+- Student Information System
+- Attendance & Academic Management
+- Administration Dashboard
+- Cross-platform Ecosystem
 - REST API Architecture
-- Responsive Web Platform
-- File Upload Pipeline
-- User Dashboard
-- Category & Resource Management
+- Role-Based Access Control
+- Real-time Data Synchronization
 
-**Tech Stack**
+### Tech Stack
 
-`Django REST Framework` • `React` • `PostgreSQL`
+`Django REST Framework` • `React` • `PostgreSQL` • `Redis` • `Electron` • `React Native`
+
+**Platforms**
+
+🌐 Web • 🖥 Desktop • 📱 Android • 🍎 iOS
+
+**Links**
+
+🌐 **Live:** https://vidyamaxx.logicbyroshan.in *(or your URL)*
+
+💻 **GitHub:** Private Repository
 
 </td>
 
@@ -172,11 +193,11 @@ Modern platform for discovering, organizing, and sharing educational resources w
 
 **AI Career Operating System**
 
-🔓 **Open Source (Planned)** • 🤖 **AI Powered**
+🟡 **Personal Project** • 🤖 **AI Powered** • 🌍 **Open Source (Planned)**
 
-Personal AI platform for resume optimization, interview preparation, career planning, and productivity, designed around modern AI workflows and developer tools.
+AI-powered productivity platform designed to streamline career growth through resume analysis, interview preparation, career planning, and modern AI workflows.
 
-**Engineering Highlights**
+### Engineering Highlights
 
 - Multi-LLM Integration
 - ATS Resume Analysis
@@ -187,42 +208,64 @@ Personal AI platform for resume optimization, interview preparation, career plan
 - REST API Architecture
 - Cross-platform Mobile Support
 
-**Tech Stack**
+### Tech Stack
 
 `Django REST Framework` • `React` • `PostgreSQL` • `React Native` • `AI APIs`
+
+**Platforms**
+
+🌐 Web • 📱 Android • 🍎 iOS
+
+**Links**
+
+🌐 **Live:** Coming Soon
+
+💻 **GitHub:** Coming Soon (Open Source)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎓 VidyaMaxx
+## ✈️ EazeTrip
 
-**AI-First School Management Platform**
+**Travel & Tour Management Platform**
 
-🟡 **Production MVP** • 🏫 **Used by 4 Schools** • 🤖 **AI First**
+🟢 **Client Project** • 💼 **Freelance** • 🌍 **Production**
 
-Comprehensive school management platform that unifies academics, administration, communication, and operations across web, desktop, and mobile applications.
+Travel management platform developed for a travel agency specializing in senior citizen tours, enabling booking management, personalized travel assistance, and streamlined customer operations.
 
-**Engineering Highlights**
+### Engineering Highlights
 
-- AI-first Architecture
-- Student Information System
-- Academic Management
-- Administration Dashboard
-- Desktop & Mobile Applications
-- Role-Based Access Control
+- Booking Management System
+- Customer & Tour Management
+- Responsive Dashboard
+- Secure Authentication
 - REST API Architecture
-- Cross-platform Ecosystem
+- Business Workflow Automation
+- Admin Management Portal
+- Mobile-friendly Experience
 
-**Tech Stack**
+### Tech Stack
 
-`Django REST Framework` • `React` • `PostgreSQL` • `Redis` • `Electron` • `React Native`
+`Django REST Framework` • `React` • `PostgreSQL`
+
+**Platforms**
+
+🌐 Web
+
+**Links**
+
+🌐 **Live:** https://eazetrip.in *(or actual URL)*
+
+💻 **GitHub:** Private Repository
 
 </td>
 
 </tr>
 
 </table>
+
+---
 
 ---
 
