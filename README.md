@@ -177,7 +177,7 @@ Modern school management platform bringing academics, administration, communicat
 
 **Links**
 
-🌐 **Live:** https://vidyamaxx.logicbyroshan.in *(or your URL)*
+🌐 **Live:** https://vidyamaxx.in *
 
 💻 **GitHub:** Private Repository
 
