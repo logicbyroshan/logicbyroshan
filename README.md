@@ -30,68 +30,66 @@
 
 # 🛠️ Tech I Worked With !
 
-<table width="100%" cellspacing="0" cellpadding="10">
+<table width="100%" cellspacing="0" cellpadding="6">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 ### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&perline=5" width="180" />
 </p>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 ### 🤖 AI & Data
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib" width="180" />
 </p>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express" />
-</p>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🎨 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express&perline=5" width="180" />
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
-### 🗄️ Databases
+### 🎨 Frontend
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite" />
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&perline=5" width="180" />
 </p>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
+
+### 🗄️ Databases
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite" width="180" />
+</p>
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
 
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,kubernetes&perline=5" width="180" />
 </p>
 
 </td>
@@ -99,7 +97,6 @@
 </table>
 
 ---
-
 # 🚀 Selected Engineering Projects
 
 <table width="100%">
