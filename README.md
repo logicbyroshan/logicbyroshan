@@ -26,19 +26,19 @@
 * 🌍 Open-source enthusiast and lifelong learner
 
 ---
-
-
 # 🛠️ Tech I Worked With !
 
-<table width="100%" cellspacing="0" cellpadding="6">
+<table width="100%">
+
 <tr>
+
 <td width="33.33%" align="center" valign="top">
 
 ### 💻 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&perline=5" width="180" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&perline=5" width="85%">
+
+<img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
 </td>
 
@@ -46,9 +46,9 @@
 
 ### 🤖 AI & Data
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib" width="180" />
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,numpy,pandas,sklearn,matplotlib" width="85%">
+
+<img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
 </td>
 
@@ -56,21 +56,23 @@
 
 ### ⚙️ Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express&perline=5" width="180" />
-</p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express&perline=5" width="85%">
+
+<img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="33.33%" align="center" valign="top">
 
 ### 🎨 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&perline=5" width="180" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind&perline=5" width="85%">
+
+<img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
 </td>
 
@@ -78,9 +80,9 @@
 
 ### 🗄️ Databases
 
-<p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite" width="180" />
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,mongodb,firebase,sqlite" width="85%">
+
+<img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
 </td>
 
@@ -88,15 +90,18 @@
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,kubernetes&perline=5" width="180" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,redis,nginx,gcp,kubernetes&perline=5" width="85%">
+
+<img src="https://dummyimage.com/300x1/000000/000000" width="300" height="1" alt="">
 
 </td>
+
 </tr>
+
 </table>
 
 ---
+
 # 🚀 Selected Engineering Projects
 
 <table width="100%">
@@ -261,8 +266,6 @@ Travel management platform developed for a travel agency specializing in senior 
 </tr>
 
 </table>
-
----
 
 ---
 
