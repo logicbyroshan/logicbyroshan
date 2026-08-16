@@ -114,7 +114,7 @@
 
 **Enterprise ID Card Management & Generation Platform**
 
-🟢 **Production** • 👥 **1000+ Users** • 📱 **435+ Play Store Installs** • 📈 **300+ Active Mobile Users** • ⭐ **5.0 Rating**
+🟢 **Production** • 👥 **1000+ Users** • 📱 **435+ Play Store Installs**
 
 Production-ready platform used by schools and organizations to manage and generate ID cards with automated workflows, AI-assisted media processing, and cross-platform applications.
 
@@ -140,10 +140,7 @@ Production-ready platform used by schools and organizations to manage and genera
 
 **Links**
 
-🌐 **Live:** https://cardflow.in*
-
-📱 **Google Play:** https://play.google.com/store/apps/details?id=com.adarshid.app
-
+🌐 **Live:** https://cardflow.in
 💻 **GitHub:** Private Repository
 
 </td>
@@ -179,8 +176,7 @@ Modern school management platform bringing academics, administration, communicat
 
 **Links**
 
-🌐 **Live:** https://vidyamaxx.in *
-
+🌐 **Live:** https://vidyamaxx.in
 💻 **GitHub:** Private Repository
 
 </td>
@@ -221,7 +217,6 @@ AI-powered productivity platform designed to streamline career growth through re
 **Links**
 
 🌐 **Live:** Coming Soon
-
 💻 **GitHub:** Coming Soon (Open Source)
 
 </td>
@@ -257,8 +252,7 @@ Travel management platform developed for a travel agency specializing in senior 
 
 **Links**
 
-🌐 **Live:** https://eazetrip.in *(or actual URL)*
-
+🌐 **Live:** https://eazetrip.in
 💻 **GitHub:** Private Repository
 
 </td>
